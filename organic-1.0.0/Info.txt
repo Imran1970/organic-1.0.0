@@ -1,0 +1,40 @@
+Key Features
+
+Bootstrap 5.3.0-alpha3
+HTML5 & CSS3
+Preloader
+Search Filter
+Banners
+Hero Section
+Hero Image
+Top Navigation Bar
+Dropdown Menu Bar
+Product Grid
+Product Sliders
+Category Cards
+Category Slider
+Sign up Form UI
+On-Hover Effects
+Call-to-Action Buttons
+Detailed Footer
+Social Media Icons
+Clean Codebase
+Multipurpose Design
+Fully Responsive
+Search Engine Optimized
+Cross-Browser Compatible
+Newsletter Subscription Form UI
+Collapsible Burger Menu with Side Navigation Bar
+ 
+
+In The Box
+HTML & CSS
+All Demo Images
+Library & Plugins
+JavaScript Source Files
+ 
+
+Library & Plugins
+Bootstrap 5
+Google Font
+jQuery
